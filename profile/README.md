@@ -1,4 +1,4 @@
-## ![Plming Logo]("/profile/아이콘4png.png") Plming
+## ![Plming Logo]("https://github.com/pgrm-study-website/.github/profile/아이콘4png.png") Plming
 
 <!--
 
