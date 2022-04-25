@@ -1,4 +1,6 @@
-## ![Plming Logo](https://github.com/pgrm-study-website/.github/blob/main/profile/%EC%95%84%EC%9D%B4%EC%BD%984png.png){: width="50" height="50"} Plming
+## ![Plming Logo](/profile/%EC%95%84%EC%9D%B4%EC%BD%984png.png){: width="50" height="50"} Plming
+
+<img src="/profile/%EC%95%84%EC%9D%B4%EC%BD%984png.png" width="50" height="50"> Plming
 
 <!--
 
