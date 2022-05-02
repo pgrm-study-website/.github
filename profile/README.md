@@ -14,7 +14,7 @@
 
 - <img src="https://avatars.githubusercontent.com/u/80041449?v=4" align="center" width="25" height="25"> [JMsuper](https://github.com/JMsuper)
 
-- <img src="https://avatars.githubusercontent.com/u/79067549?v=4" align="center" width="25" height="25"> [seuha](https://github.com/seuha516) : 메인 페이지, 게시글(목록, 작성, 읽기, 수정, 삭제, 검색 및 검색 옵션), 댓글 및 답글(작성, 삭제), 신청(상태 변경, 취소), API 연동(로그인 등 유저 정보 관리, 마이페이지 정보 관리, 게시글, 댓글, 신청, 이미지), Redux 및 Redux Saga 세팅, 소셜 로그인, 배포
+- <img src="https://avatars.githubusercontent.com/u/79067549?v=4" align="center" width="25" height="25"> [seuha](https://github.com/seuha516) : 메인 페이지, 게시글 *(목록, 작성, 읽기, 수정, 삭제, 검색 및 검색 옵션)* , 댓글 및 답글 *(작성, 삭제)* , 신청 *(상태 변경, 취소)* , API 연동 *(로그인 등 유저 정보 관리, 마이페이지 정보 관리, 게시글, 댓글, 신청, 이미지)* , Redux 및 Redux Saga 세팅, 소셜 로그인, 배포
 
 - <img src="https://avatars.githubusercontent.com/u/49177223?v=4" align="center" width="25" height="25"> [sumi](https://github.com/sumi-0011)
 
