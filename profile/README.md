@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 팀원 소개
 
-- [slchoi](https://github.com/SulimChoi)
+- [slchoi](https://github.com/SulimChoi) : 게시글 관련 기능 구현 (게시글 작성 관련 API, 게시글 신청 API, 게시글 검색 API, 댓글 API, 알림 API )
 - [JMsuper](https://github.com/JMsuper)
 - [seuha](https://github.com/seuha516)
 - [sumi](https://github.com/sumi-0011)
@@ -93,7 +93,7 @@
   > 초기 개발 기간: 2022년 3월 16일 ~ 2022년 4월 30일
 
   - 개발환경 구축
-  - 게시글 관련 도메인 구축
+  - 게시글 관련 도메인 구
   - 사용자 관련 도메인 구현
   - API 문서화
   - 검색 기능 구현
