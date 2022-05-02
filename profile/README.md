@@ -11,7 +11,7 @@
 ## 🧑‍💻 팀원 소개
 
 - <img src="https://avatars.githubusercontent.com/u/66582313?v=4" align="center" width="25" height="25"> [slchoi](https://github.com/SulimChoi)
-    - 게시글 관련 기능 구현 (게시글 작성 관련 API, 게시글 신청 API, 게시글 검색 API, 댓글 API, 알림 API )
+    - 게시글 관련 기능 구현 (게시글 작성 관련 API, 게시글 신청 API, 게시글 검색 API, 댓글 API, 알림 API 개발)
 
 
 - <img src="https://avatars.githubusercontent.com/u/80041449?v=4" align="center" width="25" height="25"> [JMsuper](https://github.com/JMsuper)
