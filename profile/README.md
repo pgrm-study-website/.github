@@ -16,7 +16,7 @@
 
 - <img src="https://avatars.githubusercontent.com/u/80041449?v=4" align="center" width="25" height="25"> [JMsuper](https://github.com/JMsuper)
     - 회원 인증 및 인가관련 API, 소셜 로그인 API
-    - JWT토큰 API
+    - JWT토큰 API 
     - 회원 API, 쪽지 API
     - AWS 서버구축 및 HTTPS 적용
 - <img src="https://avatars.githubusercontent.com/u/79067549?v=4" align="center" width="25" height="25"> [seuha](https://github.com/seuha516)
