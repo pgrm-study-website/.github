@@ -23,6 +23,12 @@
     - 배포
 
 - <img src="https://avatars.githubusercontent.com/u/49177223?v=4" align="center" width="25" height="25"> [sumi](https://github.com/sumi-0011)
+    - 알림 (목록, 읽기, 삭제)
+    - 쪽지 (보내기, 목록, 작성, 읽기, 삭제)
+    - API연동 (알림, 메시지 등 정보 관리)
+    - common UI (header, sidebar, footer 등)
+
+
 
 </br>
 
