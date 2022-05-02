@@ -15,7 +15,10 @@
 
 
 - <img src="https://avatars.githubusercontent.com/u/80041449?v=4" align="center" width="25" height="25"> [JMsuper](https://github.com/JMsuper)
-
+    - 회원 인증 및 인가관련 API, 소셜 로그인 API
+    - JWT토큰 API
+    - 회원 API, 쪽지 API
+    - AWS 서버구축 및 HTTPS 적용
 - <img src="https://avatars.githubusercontent.com/u/79067549?v=4" align="center" width="25" height="25"> [seuha](https://github.com/seuha516)
     - 메인 페이지, 게시글 *(목록, 작성, 읽기, 수정, 삭제, 검색 및 검색 옵션)* , 댓글 및 답글 *(작성, 삭제)* , 신청 *(상태 변경, 취소)* , API 연동 *(로그인 등 유저 정보 관리, 마이페이지 정보 관리, 게시글, 댓글, 신청, 이미지)*
     - Redux 및 Redux Saga 세팅
